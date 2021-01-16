@@ -1,7 +1,7 @@
-#MeTe
+# MeTe
 SCITMASTER 첫과제로 만든 프로그램 CONSOLE 을 이용한 영상컨텐츠 제공 서비스 구현 
 
-##Service
+# Service
 ![first_Prj](https://user-images.githubusercontent.com/45669039/104808568-8fd67780-582a-11eb-9834-1f60df2a151f.JPG)
 
 ![02](https://user-images.githubusercontent.com/45669039/104808562-864d0f80-582a-11eb-938c-ec7c442bf72c.png)
@@ -10,7 +10,7 @@ SCITMASTER 첫과제로 만든 프로그램 CONSOLE 을 이용한 영상컨텐�
 
 ![01](https://user-images.githubusercontent.com/45669039/104808565-8816d300-582a-11eb-8153-efad92f73352.png)
 
-#Features
+# Features
 *회원가입
 
 *로그인
@@ -37,7 +37,7 @@ SCITMASTER 첫과제로 만든 프로그램 CONSOLE 을 이용한 영상컨텐�
   *내가본 영상 목록 조회
   
   
-#USED SKILL
+# USED SKILL
   Pure JAVA 
   JDBC 
   ORACLE
